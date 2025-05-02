@@ -23,7 +23,7 @@ A fully responsive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **Vani
   ![Mobile](https://github.com/i-am-gyan/Tic-Tac-Toe/blob/a99493b0def058b8cdc14efd8d56315e67df892b/Mobile-view.jpg)
 
 - **💻 Full Desktop View**
-  ![FullView](images/winner.png)
+  ![FullView](https://github.com/i-am-gyan/Tic-Tac-Toe/blob/e542fdf518bfedd0f51dc0efab8e435a5a4df37a/Full-Desktop-View.jpg)
 
 - **🎯 Player Move (Mid-Game)**
   ![Move](images/draw.png)
