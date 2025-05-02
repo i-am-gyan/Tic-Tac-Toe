@@ -29,7 +29,7 @@ A fully responsive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **Vani
   ![Move](https://github.com/i-am-gyan/Tic-Tac-Toe/blob/509a602c1c8c640d09fd514a66ce7b352cbc1415/Mid-Game.jpg)
 
 - **🏆 Winner Message Displayed**
-  ![Winner](images/draw.png)
+  ![Winner](https://github.com/i-am-gyan/Tic-Tac-Toe/blob/34050e89035423a9287fc3ca495ada7b9c51d326/Winner-Message.jpg)
 
 - **🔁 Reset/New Game State**
   ![Reset](images/draw.png)
