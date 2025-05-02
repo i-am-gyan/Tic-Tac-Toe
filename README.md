@@ -20,7 +20,7 @@ A fully responsive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **Vani
 > Add your screenshots in an `images/` folder and link them below:
 
 - **📱 Mobile View (Portrait)**
-  ![Mobile](images/gameplay.png)
+  ![Mobile](https://github.com/i-am-gyan/Tic-Tac-Toe/blob/a99493b0def058b8cdc14efd8d56315e67df892b/Mobile-view.jpg)
 
 - **💻 Full Desktop View**
   ![FullView](images/winner.png)
