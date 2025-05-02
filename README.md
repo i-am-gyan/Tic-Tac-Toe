@@ -32,7 +32,7 @@ A fully responsive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **Vani
   ![Winner](https://github.com/i-am-gyan/Tic-Tac-Toe/blob/34050e89035423a9287fc3ca495ada7b9c51d326/Winner-Message.jpg)
 
 - **🔁 Reset/New Game State**
-  ![Reset](images/draw.png)
+  ![Reset](https://github.com/i-am-gyan/Tic-Tac-Toe/blob/bf6f2481db545e0b24dee30116142d8205e317e6/Full-Desktop-View.jpg)
 
 ## 📁 Folder Structure
 
